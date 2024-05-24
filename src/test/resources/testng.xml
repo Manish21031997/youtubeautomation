@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="YouTube Test Suite">
+    <test name="YouTube Test Cases">
+        <classes>
+            <class name="demo.TestCases"/>
+        </classes>
+    </test>
+</suite>
